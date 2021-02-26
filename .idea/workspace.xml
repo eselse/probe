@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="180fc73e-ed1b-4000-a3e3-57bf5b2238ed" name="Default Changelist" comment="Были добавлены все файлы.">
-      <change afterPath="$PROJECT_DIR$/01_os_info.py" afterDir="false" />
+    <list default="true" id="180fc73e-ed1b-4000-a3e3-57bf5b2238ed" name="Default Changelist" comment="Add script for system and python version info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_os_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_os_info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/probe1.py" beforeDir="false" afterPath="$PROJECT_DIR$/probe1.py" afterDir="false" />
     </list>
+    <list id="9763b8ab-960f-4025-ac2e-6ae1ab4f0a97" name="Add script for system and python version info" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="a72091db919ca6e692dbaf21d6ce1bcac53ee7fb" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -45,7 +52,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_os_info">
+  <component name="RunManager" selected="Python.probe1">
     <configuration name="01_os_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="probe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.probe1" />
+        <item itemvalue="Python.01_os_info" />
         <item itemvalue="Python.01_os_info" />
         <item itemvalue="Python.probe1" />
       </list>
@@ -123,6 +132,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="180fc73e-ed1b-4000-a3e3-57bf5b2238ed" name="Default Changelist" comment="" />
+      <changelist id="9763b8ab-960f-4025-ac2e-6ae1ab4f0a97" name="Add script for system and python version info" comment="" />
       <created>1613892137507</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -191,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614280848638</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add script for system and python version info">
+      <created>1614282797822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614282797822</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add script for system and python version info">
+      <created>1614282931406</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614282931406</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +228,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
@@ -215,6 +240,7 @@
     <MESSAGE value="Несколько строк про тянут-потянут" />
     <MESSAGE value="Уточнение про деда." />
     <MESSAGE value="Были добавлены все файлы." />
-    <option name="LAST_COMMIT_MESSAGE" value="Были добавлены все файлы." />
+    <MESSAGE value="Add script for system and python version info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add script for system and python version info" />
   </component>
 </project>
