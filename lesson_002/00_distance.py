@@ -18,9 +18,9 @@ moscow = sites['Moscow']
 london = sites['London']
 paris = sites['Paris']
 
-moscow_london = ((moscow[0] - london[0]) ** 2 + (moscow[1] - london[1]) ** 2) ** .5
-paris_london = ((paris[0] - london[0]) ** 2 + (paris[1] - london[1]) ** 2) ** .5
-moscow_paris = ((moscow[0] - paris[0]) ** 2 + (moscow[1] - paris[1]) ** 2) ** .5
+moscow_london = round(((moscow[0] - london[0]) ** 2 + (moscow[1] - london[1]) ** 2) ** .5, 2)
+paris_london = round(((paris[0] - london[0]) ** 2 + (paris[1] - london[1]) ** 2) ** .5, 2)
+moscow_paris = round(((moscow[0] - paris[0]) ** 2 + (moscow[1] - paris[1]) ** 2) ** .5, 2)
 
 distances['Moscow'] = {}
 distances['Moscow']['London'] = moscow_london

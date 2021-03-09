@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="180fc73e-ed1b-4000-a3e3-57bf5b2238ed" name="Default Changelist" comment="Add script for system and python version info">
-      <change afterPath="$PROJECT_DIR$/lesson_002/00_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/01_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/02_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/03_favorite_movies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/04_my_family.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/05_zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/06_songs_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/07_secret.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/08_garden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/09_shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/10_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/__init__.py" afterDir="false" />
+    <list default="true" id="180fc73e-ed1b-4000-a3e3-57bf5b2238ed" name="Default Changelist" comment="Add all homework files with code">
+      <change afterPath="$PROJECT_DIR$/lesson_003/00_bubbles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/02_envelop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/03_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/04_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/05_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/06_rainbow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/07_wall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/08_smile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/09_resolve_conflicts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/examples/06_wall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/examples/07_smile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/01_execution_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/02_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/03_code_style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/04_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/05_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/06_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_002/00_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002/00_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_002/10_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002/10_store.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/probe.py" beforeDir="false" afterPath="$PROJECT_DIR$/probe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/probe1.py" beforeDir="false" afterPath="$PROJECT_DIR$/probe1.py" afterDir="false" />
     </list>
     <list id="9763b8ab-960f-4025-ac2e-6ae1ab4f0a97" name="Add script for system and python version info" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +59,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1omWEwKsWyD3qaEqe3A2i7euNz7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,8 +78,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10_store">
-    <configuration name="05_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.probe">
+    <configuration name="00_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="probe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002/05_zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002/00_distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_songs_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_execution_flow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="probe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003/lecture_snippets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002/06_songs_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/lecture_snippets/01_execution_flow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_secret" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="probe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,32 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003/lecture_snippets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002/07_secret.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08_garden" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="probe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002/08_garden.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/lecture_snippets/02_if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,13 +184,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="probe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="probe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/probe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.probe" />
+        <item itemvalue="Python.02_if" />
+        <item itemvalue="Python.01_execution_flow" />
+        <item itemvalue="Python.00_distance" />
         <item itemvalue="Python.10_store" />
-        <item itemvalue="Python.08_garden" />
-        <item itemvalue="Python.07_secret" />
-        <item itemvalue="Python.06_songs_list" />
-        <item itemvalue="Python.05_zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614329274275</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add all homework files with code">
+      <created>1614877251814</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614877251814</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,7 +353,8 @@
     <MESSAGE value="Были добавлены все файлы." />
     <MESSAGE value="Add script for system and python version info" />
     <MESSAGE value="Write simple script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Write simple script" />
+    <MESSAGE value="Add all homework files with code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all homework files with code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -343,6 +363,16 @@
           <url>file:///usr/lib/python3/dist-packages/dateutil/parser/_parser.py</url>
           <line>292</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_003/lecture_snippets/01_execution_flow.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_003/lecture_snippets/02_if.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

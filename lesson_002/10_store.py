@@ -74,7 +74,7 @@ sofa_item_second = store[sofa_code][1]
 sofa_quantity = sofa_item_first['quantity'] + sofa_item_second['quantity']
 print('Диван -', sofa_quantity, 'шт, стоимость', sofas_cost, 'руб')\
 
-# Chair
+# Chairs
 chairs_cost = store[goods['Стул']][0]['quantity'] * store[goods['Стул']][0]['price']
 chairs_cost += store[goods['Стул']][1]['quantity'] * store[goods['Стул']][1]['price']
 chairs_cost += store[goods['Стул']][2]['quantity'] * store[goods['Стул']][2]['price']
