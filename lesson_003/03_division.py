@@ -10,4 +10,9 @@
 
 a, b = 179, 37
 
-# TODO здесь ваш код
+c = a - b
+count = 1
+while c >= b:
+    c -= b
+    count += 1
+print('Целочисленное деление ' + str(a) + ' на ' + str(b) + ' дает ' + str(count))
