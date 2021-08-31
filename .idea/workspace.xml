@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="180fc73e-ed1b-4000-a3e3-57bf5b2238ed" name="Default Changelist" comment="Add all third lesson's files">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/probe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/probe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/00_bubbles.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/00_bubbles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/02_envelop.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/02_envelop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/03_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/03_division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/04_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/04_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/05_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/05_store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/06_rainbow.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/06_rainbow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/07_wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/07_wall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/08_smile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/08_smile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/09_resolve_conflicts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/09_resolve_conflicts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/lecture_snippets/06_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/lecture_snippets/06_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/probe.py" beforeDir="false" afterPath="$PROJECT_DIR$/probe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_os_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_os_info.txt" afterDir="false" />
     </list>
     <list id="9763b8ab-960f-4025-ac2e-6ae1ab4f0a97" name="Add script for system and python version info" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +60,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.08_smile">
-    <configuration name="04_student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_os_info">
+    <configuration name="01_os_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="probe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/04_student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_os_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_os_info" />
         <item itemvalue="Python.08_smile" />
         <item itemvalue="Python.07_wall" />
         <item itemvalue="Python.06_rainbow" />
         <item itemvalue="Python.05_store" />
-        <item itemvalue="Python.04_student" />
       </list>
     </recent_temporary>
   </component>
